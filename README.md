@@ -14,7 +14,8 @@ This repo is a collection of example projects from students in General Assembly'
 * Classifying PDFs as Likely Malicious or Likely Benign (malware_presentation.pdf)
 * Twitter Music Recommendation Engine (music_presentation.pdf)
 * Kaggle Learning Social Circles in Networks (networks_presentation.pdf)
-* NPR One: Predicting User Behavior with N-Nearest Neighbor Stories (npr_presentation.pdf)
+* NPR One: App Store Reviews Text Analysis (npr_reviews_presentation.pdf)
+* NPR One: Predicting User Behavior with N-Nearest Neighbor Stories (npr_stories_presentation.pdf)
 * Can I use social media data to recommend countries to visit based on my travel history? (travel_paper.pdf, travel_presentation.pdf)
 
 
