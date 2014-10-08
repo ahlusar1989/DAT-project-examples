@@ -5,7 +5,9 @@ This repo is a collection of example projects from students in General Assembly'
 
 ### Directory of project files in this repo (in order)
 
+* Data Athletics: Analyzing Triathlete's Performance (athletics_presentation.pdf, [code and data](https://github.com/cabhishek/datascience))
 * Bike Sharing in Mexico City (bike_presentation.pdf, [code](https://github.com/justmarkham/gadsdc2/tree/master/final_project/jesus))
+* Predicting User Churn (churn_presentation.pdf)
 * Predicting consumer disputes (disputes_presentation.pdf)
 * Using Twitter Sentiment to Predict the NYC Mayoral Election (election_paper.pdf, election_presentation.pdf)
 * Social media and brand marketing in the hotel industry (hotel_paper.pdf, hotel_presentation.pdf)
