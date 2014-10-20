@@ -1,7 +1,3 @@
-## GA Data Science: Example Projects
-
-This repo is a collection of example projects from students in General Assembly's part-time Data Science course. Rather than being a comprehensive collection of projects, its purpose is to give incoming GA Data Science students a sense of the variety and scope of past projects, and to spur their thinking for their own projects.
-
 
 ### Directory of project files in this repo (in order)
 
